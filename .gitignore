@@ -1,0 +1,2 @@
+# Ignore credentials (which folders I want to be ignored by Git)
+/secret
